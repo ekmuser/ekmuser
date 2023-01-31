@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ellen Marinho
 
 
-- 🔭 Front-end Developer em formação
+- 🔭 Cientista de Dados em formação
 - 🌱 Estudante de Sistemas de Informação 
 - 📫 Contate-me no email: ellen-marinho03@hotmail.com
 - 😄 Pronouns: Ela/Dela 
