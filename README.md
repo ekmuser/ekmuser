@@ -4,7 +4,6 @@
 - 🔭 Cientista de Dados em formação
 - 🌱 Estudante de Sistemas de Informação 
 - 📫 Contate-me no email: ellen-marinho03@hotmail.com
-- 😄 Pronouns: Ela/Dela 
 
 <div align="center">
   <a href="https://github.com/ekmuser">
