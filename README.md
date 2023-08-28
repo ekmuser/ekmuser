@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ellen Marinho
 
 
-- 🔭 Cientista de Dados em formação
+- 🔭 Futura Desenvolvedora Web 
 - 🌱 Estudante de Sistemas de Informação 
 - 📫 Contate-me no email: ellen-marinho03@hotmail.com
 
